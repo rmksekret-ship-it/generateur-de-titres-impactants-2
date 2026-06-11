@@ -1,0 +1,46 @@
+{
+  "name": "Générateur de Titres Impactants",
+  "description": "Dans un monde où l'attention est une denrée rare, comment vos idées peuvent-elles briller ? Notre Générateur de Titres Impactants est l'outil qu'il vous faut pour captiver votre audience dès le premier regard. Oubliez les titres fades et interchangeables, et donnez à votre contenu le coup de projecteur qu'il mérite.",
+  "theme": "tool",
+  "design_theme": "zine-noise",
+  "structure_preset": "quick-compare-strip",
+  "render_direction": "atlas-report",
+  "page_blueprint": "worksheet-cascade",
+  "language": "fr",
+  "country": "FR",
+  "url": null,
+  "expected_url": "https://generateur-de-titres-impactants-2.onrender.com",
+  "created": "2026-06-11T01:37:57.886417+00:00",
+  "owner_user_id": "user-1774825923424-663",
+  "owner_username": "inso",
+  "owner_display_name": "Inso",
+  "provider_space_id": "new-sites",
+  "provider_space_name": "New Sites",
+  "status": "generated",
+  "run_id": "run-1781141745285",
+  "external_site_request_id": null,
+  "external_client_ref": null,
+  "external_source_label": null,
+  "source_type": "generated",
+  "publish_target": "render",
+  "mode": "production",
+  "github": {
+    "status": "pending"
+  },
+  "deployment": {
+    "status": "pending"
+  },
+  "qa": {
+    "status": "pending"
+  },
+  "features": [
+    "Hero pattern: tool-first",
+    "Proof module: metrics",
+    "Design theme: Zine Noise",
+    "Render direction: Atlas Report",
+    "Page blueprint: Worksheet Cascade",
+    "Runtime mode: analysis_tool",
+    "Generation mode: direct_html",
+    "Artifact rendered, awaiting QA and deployment"
+  ]
+}
