@@ -1,0 +1,283 @@
+{
+  "run_id": "run-1781141745285",
+  "job_index": 2,
+  "params": {
+    "owner_user_id": "user-1774825923424-663",
+    "owner_username": "inso",
+    "owner_display_name": "Inso",
+    "count": 3,
+    "archetype": "tool",
+    "market": "France",
+    "language": "fr",
+    "country": "FR",
+    "brief": "",
+    "notes": "",
+    "import_notes": "",
+    "growth_job_id": "",
+    "growth_slug": "",
+    "growth_kind": "",
+    "external_site_request_id": "",
+    "external_client_ref": "",
+    "external_source_label": "",
+    "dashboard_mode": "builder",
+    "network_site_format": "forum",
+    "network_primary_topic": "",
+    "network_primary_geo": "",
+    "network_domain_pool": "",
+    "network_hosting_pool": "",
+    "network_dns_strategy": "auto_pool_assign",
+    "network_domain_flow": "manual",
+    "network_content_strategy": "",
+    "network_model_concept": "google/gemini-2.5-flash-lite:nitro",
+    "network_model_seo": "google/gemini-2.5-flash-lite:nitro",
+    "network_model_build": "google/gemini-2.5-flash",
+    "network_model_qa": "anthropic/claude-haiku-4.5",
+    "network_model_growth": "google/gemini-2.5-flash-lite:nitro",
+    "network_blueprint_id": "",
+    "mode": "production",
+    "run_kind": "generated_batch",
+    "publish_target": "render",
+    "requested_publish_target": "render",
+    "provider_space_id": "new-sites",
+    "provider_space_name": "New Sites",
+    "allow_url_fallback": false,
+    "railway_project_id_override": "",
+    "railway_environment_id_override": "",
+    "railway_service_id_override": "",
+    "railway_service_name_override": "",
+    "github_repo_private": false,
+    "stage_models": {
+      "ideation": "google/gemini-2.5-flash-lite:nitro",
+      "spec": "google/gemini-2.5-flash",
+      "copy": "google/gemini-2.5-flash-lite:nitro",
+      "qa": "anthropic/claude-haiku-4.5",
+      "escalation": "anthropic/claude-sonnet-4.6"
+    },
+    "archetype_display": "tool",
+    "archetype_mix": [
+      "tool"
+    ]
+  },
+  "site_spec": {
+    "slug": "generateur-de-titres-impactants-2",
+    "theme": {
+      "name": "Zine Noise",
+      "slug": "zine-noise",
+      "eyebrow": "Independent Utility",
+      "family": "zine-noise",
+      "moods": [
+        "indie",
+        "bold",
+        "raw",
+        "expressive"
+      ],
+      "archetypes": [
+        "tool",
+        "generator"
+      ],
+      "niches": [
+        "creator tools",
+        "media tools",
+        "campaign tools",
+        "social utility",
+        "portfolios"
+      ],
+      "keywords": [
+        "zine",
+        "noise",
+        "raw",
+        "bold",
+        "indie"
+      ],
+      "token_index": [
+        "bold",
+        "campaign",
+        "creator",
+        "expressive",
+        "generator",
+        "independent",
+        "indie",
+        "media",
+        "noise",
+        "portfolios",
+        "raw",
+        "social",
+        "tool",
+        "tools",
+        "utility",
+        "zine"
+      ],
+      "font_embed": "https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@400;500;700&display=swap",
+      "display_font": "\"Archivo Black\", sans-serif",
+      "body_font": "\"Space Grotesk\", sans-serif",
+      "layout": "asymmetric",
+      "card_style": "brutal",
+      "button_style": "slab",
+      "decor_style": "paper",
+      "hero_template": "0.88fr 1.12fr",
+      "seo_template": "1.18fr 0.82fr",
+      "feature_columns": 2,
+      "faq_columns": 3,
+      "hero_min_height": "78vh",
+      "panel_radius": "12px",
+      "card_radius": "14px",
+      "chip_radius": "14px",
+      "button_radius": "12px",
+      "outline_width": "3px",
+      "backdrop_blur": "16px",
+      "palette": {
+        "bg": "linear-gradient(150deg, #fef2f2 0%, #fecaca 40%, #111827 100%)",
+        "surface": "rgba(255,245,245,0.9)",
+        "surface_border": "#111827",
+        "text": "#111827",
+        "muted": "#374151",
+        "accent": "#dc2626",
+        "accent_alt": "#111827",
+        "hero_glow": "rgba(220, 38, 38, 0.16)",
+        "button_text": "#fff5f5",
+        "panel_alt": "rgba(255,255,255,0.54)",
+        "shadow": "12px 12px 0 rgba(17, 24, 39, 0.9)",
+        "input_fill": "rgba(255,255,255,0.5)"
+      }
+    },
+    "structure": {
+      "name": "Quick Compare Strip",
+      "slug": "quick-compare-strip",
+      "hero_variant": "tool-first",
+      "proof_variant": "metrics",
+      "section_order": [
+        "proof",
+        "features",
+        "faq",
+        "seo"
+      ],
+      "feature_columns": 3,
+      "faq_columns": 2,
+      "family": "compare-strip",
+      "moods": [
+        "direct",
+        "fast",
+        "comparison"
+      ],
+      "archetypes": [
+        "calculator",
+        "tool"
+      ],
+      "niches": [
+        "insurance",
+        "finance",
+        "quotes",
+        "switching"
+      ],
+      "keywords": [
+        "compare",
+        "choices",
+        "fast",
+        "matrix"
+      ],
+      "token_index": [
+        "calculator",
+        "choices",
+        "compare",
+        "comparison",
+        "direct",
+        "faq",
+        "fast",
+        "features",
+        "finance",
+        "first",
+        "insurance",
+        "matrix",
+        "metrics",
+        "proof",
+        "quick",
+        "quotes",
+        "seo",
+        "strip",
+        "switching",
+        "tool"
+      ]
+    },
+    "render_direction": "atlas-report",
+    "render_direction_name": "Atlas Report",
+    "page_blueprint": "worksheet-cascade",
+    "page_blueprint_name": "Worksheet Cascade",
+    "title": "Générateur de Titres Impactants",
+    "tagline": "Générez votre Titre Idéal",
+    "description": "Dans un monde où l'attention est une denrée rare, comment vos idées peuvent-elles briller ? Notre Générateur de Titres Impactants est l'outil qu'il vous faut pour captiver votre audience dès le premier regard. Oubliez les titres fades et interchangeables, et donnez à votre contenu le coup de projecteur qu'il mérite.",
+    "feature_prefix": "Bloc",
+    "action": "Utiliser l'outil",
+    "cta_primary": "Générer les Titres",
+    "cta_secondary": "Consulter la FAQ",
+    "inputs": [
+      {
+        "id": "primary",
+        "label": "Texte ou besoin",
+        "type": "text",
+        "placeholder": "Votre besoin principal",
+        "weight": 1.0
+      },
+      {
+        "id": "context",
+        "label": "Contexte",
+        "type": "text",
+        "placeholder": "Situation ou objectif",
+        "weight": 1.0
+      },
+      {
+        "id": "scope",
+        "label": "Intensité",
+        "type": "number",
+        "placeholder": "3",
+        "weight": 0.3
+      }
+    ],
+    "hero_metrics": [
+      {
+        "value": "Atlas Report",
+        "label": "Cadence"
+      },
+      {
+        "value": "3",
+        "label": "Entrées"
+      },
+      {
+        "value": "Résultat recommandé",
+        "label": "Sortie"
+      }
+    ],
+    "trust_labels": [
+      "Atlas Report",
+      "Générer les Titres",
+      "Résultat recommandé",
+      "Utilitaire immédiat",
+      "Structure SEO claire"
+    ],
+    "result_label": "Résultat recommandé",
+    "result_unit": "",
+    "runtime_mode": "analysis_tool",
+    "page_variant": "console",
+    "faq_topic": "outil numérique",
+    "faq_entries": [
+      {
+        "question": "Pourquoi utiliser cet outil pour outil numérique ?",
+        "answer": "Il aide à cadrer le besoin rapidement et à orienter vers une prochaine action claire sur le marché France."
+      },
+      {
+        "question": "Le résultat est-il immédiat ?",
+        "answer": "Oui. L'interface est pensée pour une réponse rapide, lisible et exploitable dès la première interaction."
+      },
+      {
+        "question": "Cette page est-elle adaptée au SEO ?",
+        "answer": "Oui. La structure mélange utilité, clarté éditoriale et signaux de confiance sans surcharger l'expérience."
+      }
+    ],
+    "seo_paragraphs": [
+      "Cette page capte une intention forte autour de outil numérique et la transforme en action utile pour un public situé sur France.",
+      "Le format hero-first accélère la compréhension, réduit les frictions et améliore la lisibilité sur mobile comme sur desktop.",
+      "Le socle reste volontairement simple pour faciliter les tests, la QA continue et les variations SEO."
+    ],
+    "document_html": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Générateur de Titres Impactants | Générez votre Titre Idéal</title>\n    <style>\n        @import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@400;700&display=swap');\n        body { margin: 0; font-family: 'Roboto', sans-serif; background-color: #f8f8f8; color: #333; line-height: 1.6; }\n        .container { max-width: 1200px; margin: 0 auto; padding: 20px; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; }\n        h1, h2 { font-family: 'Anton', sans-serif; text-transform: uppercase; color: #E84A5F; margin-bottom: 20px; }\n        h1 { font-size: 3.5em; line-height: 1.1; margin-top: 50px; }\n        h2 { font-size: 2.2em; }\n        .statement-block { flex: 2; min-width: 400px; padding: 40px; background: linear-gradient(135deg, #FFD072, #FF9A4D); border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); color: #4A2B0F; position: relative; overflow: hidden; }\n        .statement-block::before { content: ''; position: absolute; top: -50px; left: -50px; width: 200px; height: 200px; background: rgba(255,255,255,0.15); transform: rotate(45deg); border-radius: 30px; }\n        .statement-block p { font-size: 1.1em; line-height: 1.8; margin-bottom: 25px; }\n        .statement-block strong { color: #6A3E15; }\n        .tool-rail { flex: 1; min-width: 300px; padding: 30px; background-color: #ffffff; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); }\n        .tool-rail label { display: block; margin-bottom: 8px; font-weight: bold; color: #555; }\n        .tool-rail textarea, .tool-rail select, .tool-rail input[type=\"number\"] { width: calc(100% - 20px); padding: 12px; margin-bottom: 20px; border: 1px solid #ddd; border-radius: 8px; font-size: 1em; }\n        .tool-rail button { width: 100%; padding: 15px 20px; background-color: #E84A5F; color: #fff; border: none; border-radius: 8px; font-size: 1.1em; font-weight: bold; cursor: pointer; transition: background-color 0.3s ease; }\n        .tool-rail button:hover { background-color: #D33C4E; }\n        #tool-result { margin-top: 30px; padding: 25px; background-color: #fff; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); min-height: 100px; border-left: 5px solid #FF9A4D; }\n        #tool-result h3 { font-family: 'Anton', sans-serif; color: #E84A5F; margin-bottom: 15px; font-size: 1.8em; }\n        #tool-result ul { list-style: none; padding: 0; }\n        #tool-result li { background-color: #f5f5f5; border-left: 4px solid #FFD072; margin-bottom: 10px; padding: 12px 15px; border-radius: 6px; font-size: 0.95em; color: #444; }\n        .seo-section { width: 100%; padding: 50px 20px; background-color: #333; color: #f0f0f0; text-align: center; margin-top: 50px; }\n        .seo-section h2 { color: #FFD072; margin-bottom: 30px; font-size: 2.5em; }\n        .seo-section p { max-width: 800px; margin: 0 auto 20px auto; font-size: 1em; line-height: 1.7; }\n        .seo-section a { color: #E84A5F; text-decoration: none; font-weight: bold; }\n        .seo-section a:hover { text-decoration: underline; }\n        .evidence-chips { margin-top: 30px; display: flex; flex-wrap: wrap; gap: 10px; }\n        .chip { background-color: rgba(255,255,255,0.3); padding: 8px 15px; border-radius: 20px; font-size: 0.9em; font-weight: bold; color: #4A2B0F; }\n    </style>\n    <meta name=\"description\" content=\"Dans un monde où l&#x27;attention est une denrée rare, comment vos idées peuvent-elles briller ? Notre Générateur de Titres Impactants est l&#x27;outil qu&#x27;il vous faut pour captiver votre audience dès le premier regard. Oubliez les titres fades et interchangeables, et donnez à votre contenu le coup de projecteur qu&#x27;il mérite.\">\n    <meta name=\"robots\" content=\"index, follow\">\n    <link rel=\"canonical\" href=\"https://generateur-de-titres-impactants-2.onrender.com\">\n    <meta property=\"og:title\" content=\"Générateur de Titres Impactants\">\n    <meta property=\"og:description\" content=\"Dans un monde où l&#x27;attention est une denrée rare, comment vos idées peuvent-elles briller ? Notre Générateur de Titres Impactants est l&#x27;outil qu&#x27;il vous faut pour captiver votre audience dès le premier regard. Oubliez les titres fades et interchangeables, et donnez à votre contenu le coup de projecteur qu&#x27;il mérite.\">\n    <meta property=\"og:url\" content=\"https://generateur-de-titres-impactants-2.onrender.com\">\n    <meta property=\"og:type\" content=\"website\">\n    <script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"WebApplication\", \"name\": \"Générateur de Titres Impactants\", \"description\": \"Dans un monde où l'attention est une denrée rare, comment vos idées peuvent-elles briller ? Notre Générateur de Titres Impactants est l'outil qu'il vous faut pour captiver votre audience dès le premier regard. Oubliez les titres fades et interchangeables, et donnez à votre contenu le coup de projecteur qu'il mérite.\", \"url\": \"https://generateur-de-titres-impactants-2.onrender.com\", \"applicationCategory\": \"UtilityApplication\", \"operatingSystem\": \"Web Browser\"}</script>\n</head>\n<body data-site-slug=\"generateur-de-titres-impactants-2\" data-runtime-mode=\"analysis_tool\">\n    <div class=\"container\">\n        <div class=\"statement-block\">\n            <h1>Libérez l'Impact de vos Mots</h1>\n            <p>Dans un monde où l'attention est une denrée rare, comment vos idées peuvent-elles briller ? Notre <strong>Générateur de Titres Impactants</strong> est l'outil qu'il vous faut pour captiver votre audience dès le premier regard. Oubliez les titres fades et interchangeables, et donnez à votre contenu le coup de projecteur qu'il mérite.</p>\n            <p>Que ce soit pour un article de blog, une vidéo YouTube, une campagne marketing ou un post sur les réseaux sociaux, un titre accrocheur est la clé. Il transforme un simple clic en une lecture attentive, une vue occasionnelle en un engagement profond. Avec notre approche unique, obtenez des propositions <strong>SEO-friendly, dignes d'un expert, ou irrésistiblement clickbait</strong>, adaptées à chaque contexte.</p>\n            <p><strong>N'attendez plus !</strong> Donnez à votre message la puissance qu'il lui faut pour percer le bruit ambiant. C'est simple, rapide, et diablement efficace.</p>\n            <div class=\"evidence-chips\">\n                <span class=\"chip\">🚀 Gain de Temps</span>\n                <span class=\"chip\">🎯 Ciblage Précis</span>\n                <span class=\"chip\">📈 Plus d'Engagements</span>\n                <span class=\"chip\">💡 Créativité Boostée</span>\n            </div>\n        </div>\n\n        <div class=\"tool-rail\">\n            <h2>Générez votre Titre Idéal</h2>\n            <form id=\"tool-form\">\n                <label for=\"topic\">Votre sujet principal (quelques mots-clés) :</label>\n                <textarea id=\"topic\" placeholder=\"Ex: Réussir en marketing digital, Voyagez à petits prix, Astuces pour coder plus vite...\" rows=\"3\" required></textarea>\n\n                <label for=\"audience\">Votre public cible :</label>\n                <input type=\"text\" id=\"audience\" placeholder=\"Ex: Entrepreneurs, Étudiants, Parents, Développeurs...\">\n\n                <label for=\"keywords\">Mots-clés SEO additionnels (optionnel, séparés par des virgules) :</label>\n                <input type=\"text\" id=\"keywords\" placeholder=\"Ex: SEO, contenu, trafic, astuce, 2024\">\n\n                <label for=\"tone\">Tonalité souhaitée :</label>\n                <select id=\"tone\">\n                    <option value=\"any\">Peu importe</option>\n                    <option value=\"expert\">Expert / Autoritaire</option>\n                    <option value=\"clickbait\">Clickbait / Curiosité</option>\n                    <option value=\"soft\">Doux / Inspirant</option>\n                    <option value=\"commercial\">Commercial / Promotionnel</option>\n                </select>\n\n                <label for=\"numTitles\">Nombre de titres à générer :</label>\n                <input type=\"number\" id=\"numTitles\" value=\"5\" min=\"1\" max=\"10\">\n\n                <button type=\"submit\" id=\"tool-submit\" data-affiliate-slot=\"generator-cta\">Générer les Titres</button>\n            </form>\n\n            <div id=\"tool-result\">\n                <h3 id=\"result-headline\">Vos Titres Suggérés ici</h3>\n                <ul>\n                    <li>Vos résultats apparaîtront après avoir cliqué sur \"Générer les Titres\".</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"seo-section\">\n        <h2>Optimisez votre Présence en Ligne avec des Titres percutants</h2>\n        <p>Vous cherchez à <strong>améliorer le taux de clic</strong> de vos articles ? Besoin d'un <strong>générateur de titres d'articles de blog</strong> efficace pour attirer plus de lecteurs ? Notre outil vous aide à créer des <strong>titres optimisés SEO</strong>, des <strong>accroches publicitaires</strong> et des <strong>titres YouTube</strong> qui captivent. Que vous soyez un blogueur, un créateur de contenu ou un spécialiste du marketing, découvrez comment un bon titre peut transformer votre visibilité. Essayez notre <strong>générateur de titres gratuits en ligne</strong> pour des idées de titres accrocheurs et des suggestions pour vos campagnes. Obtenez des <strong>idées de titres originaux</strong> pour vos contenus et démarquez-vous de la concurrence. La clé du succès en ligne commence par un titre impactant.\n        </p>\n    </div>\n\n    <script>\n        document.getElementById('tool-form').addEventListener('submit', function(event) {\n            event.preventDefault();\n\n            const topic = document.getElementById('topic').value.trim();\n            const audience = document.getElementById('audience').value.trim();\n            const keywords = document.getElementById('keywords').value.trim().split(',').map(k => k.trim()).filter(k => k.length > 0);\n            const tone = document.getElementById('tone').value;\n            const numTitles = parseInt(document.getElementById('numTitles').value);\n            const resultDiv = document.getElementById('tool-result');\n            let resultsHtml = '<h3>Vos Titres Suggérés :</h3><ul>';\n\n            if (!topic) {\n                resultsHtml += '<li>Veuillez entrer un sujet pour générer des titres.</li>';\n                resultDiv.innerHTML = resultsHtml + '</ul>';\n                return;\n            }\n\n            const baseTitles = [\n                `Le Guide Ultime pour ${topic} : Tout ce que vous devez savoir.`,\n                `Maîtrisez ${topic} en 5 Étapes Simples.`,\n                `Découvrez les Secrets de ${topic} pour ${audience || 'votre succès'}.`,\n                `Comment ${topic} peut transformer votre vie ?`,\n                `Évitez ces Erreurs Courantes en ${topic}.`,\n                `L'Impact Caché de ${topic} : Une Révélation.`,\n                `Top 10 des Astuces pour ${topic} en 2024.`,\n                `Pourquoi ${topic} est essentiel pour ${audience || 'tous'} ?`,\n                `${topic} : Le Futur est Maintenant.`,\n                `Faites de ${topic} votre Super Pouvoir.`\n            ];\n\n            const generatedTitles = new Set();\n            while (generatedTitles.size < numTitles) {\n                let title = baseTitles[Math.floor(Math.random() * baseTitles.length)];\n                let currentTone = tone;\n\n                if (tone === 'any') {\n                    const tones = ['expert', 'clickbait', 'soft', 'commercial'];\n                    currentTone = tones[Math.floor(Math.random() * tones.length)];\n                }\n\n                switch (currentTone) {\n                    case 'expert':\n                        title = `Analyse Profonde : ${topic} et ses Implications pour ${audience || 'les Professionnels'}.` + (keywords.length > 0 ? ` (${keywords[0]})` : '');\n                        break;\n                    case 'clickbait':\n                        title = `CHOQUANT : Ce que VOUS ne savez PAS sur ${topic} (et que les experts vous cachent) !`;\n                        break;\n                    case 'soft':\n                        title = `L'Art de ${topic} : Cultiver la Sérénité au Quotidien.` + (audience ? ` pour ${audience}.` : '');\n                        break;\n                    case 'commercial':\n                        title = `Optimisez votre ${topic} : La Solution Ultime pour ${audience || 'votre entreprise'}.`;\n                        break;\n                }\n\n                // Add keywords if available and not already part of the chosen tone's structure\n                if (keywords.length > 0 && !title.includes(keywords[0])) {\n                    const randKeyword = keywords[Math.floor(Math.random() * keywords.length)];\n                    if (Math.random() > 0.5) { // 50% chance to append keyword\n                        title += ` [${randKeyword}]`;\n                    }\n                }\n\n                // Add audience if not already integrated\n                if (audience && !title.includes(audience) && Math.random() > 0.3) {\n                     if (!title.includes('pour')) {\n                         title += ` pour ${audience}`;\n                     } else {\n                         title = title.replace('pour', `pour ${audience} et`);\n                     }\n                }\n                \n                generatedTitles.add(title.replace(/\\s+/g, ' ').trim()); // Normalize spaces\n            }\n\n            Array.from(generatedTitles).slice(0, numTitles).forEach(t => {\n                resultsHtml += `<li>${t}</li>`;\n            });\n\n            resultDiv.innerHTML = resultsHtml + '</ul>';\n        });\n    </script>\n<div id=\"qa-smoke-result\" hidden></div>\n<script id=\"farmbuilder-affiliate-helper\">\n(function () {\n  window.__UTILITY_AFFILIATE_MAP = window.__UTILITY_AFFILIATE_MAP || {};\n  document.addEventListener(\"click\", function (event) {\n    const target = event.target.closest(\"[data-affiliate-slot]\");\n    if (!target) return;\n    const slot = target.getAttribute(\"data-affiliate-slot\");\n    const href = window.__UTILITY_AFFILIATE_MAP[slot];\n    if (!href) return;\n    if (target.tagName && target.tagName.toLowerCase() === \"a\") {\n      target.setAttribute(\"href\", href);\n      target.removeAttribute(\"rel\");\n      return;\n    }\n    event.preventDefault();\n    window.open(href, \"_blank\");\n  }, true);\n})();\n</script>\n<script id=\"farmbuilder-functional-qa\">\n(function () {\n  function marker() {\n    let node = document.getElementById(\"qa-smoke-result\");\n    if (node) return node;\n    node = document.createElement(\"div\");\n    node.id = \"qa-smoke-result\";\n    node.hidden = true;\n    document.body.appendChild(node);\n    return node;\n  }\n\n  let qaFinished = false;\n  let qaWatchdog = null;\n\n  function normalize(text) {\n    return String(text || \"\").replace(/\\s+/g, \" \").trim();\n  }\n\n  function findForm() {\n    return document.getElementById(\"tool-form\") || document.querySelector(\"form\");\n  }\n\n  function findResult() {\n    return (\n      document.getElementById(\"tool-result\") ||\n      document.querySelector(\"[data-result]\") ||\n      document.querySelector(\".tool-result, .result-card, .result, .results, .output, .preview, .diagnostic, .analysis\")\n    );\n  }\n\n  function primaryAction(form) {\n    if (!form) return null;\n    return (\n      document.getElementById(\"tool-submit\") ||\n      form.querySelector(\"#tool-submit\") ||\n      form.querySelector(\"[data-primary-action]\") ||\n      form.querySelector(\"button[type=submit]\") ||\n      form.querySelector(\"button\") ||\n      form.querySelector(\"input[type=submit]\")\n    );\n  }\n\n  function resultSignature(node) {\n    if (!node) return \"\";\n    const text = normalize(node.textContent);\n    const html = normalize(node.innerHTML).slice(0, 600);\n    return `${text}||${html}`;\n  }\n\n  function resultHeadline(node) {\n    if (!node) return \"\";\n    const heading = node.querySelector(\"h1, h2, h3, strong, b\");\n    return normalize(heading ? heading.textContent : \"\");\n  }\n\n  function sampleText(field) {\n    const key = `${field.id || \"\"} ${field.name || \"\"} ${field.placeholder || \"\"}`.toLowerCase();\n    if (/email/.test(key)) return \"bonjour@example.com\";\n    if (/url|site|website|lien/.test(key)) return \"https://example.com/offre-solaire\";\n    if (/phone|tel|mobile/.test(key)) return \"0612345678\";\n    if (/ville|city|localisation|location|region|departement|postal/.test(key)) return \"Paris\";\n    if (/orientation/.test(key)) return \"sud\";\n    if (/keyword|theme|topic|sujet|subject/.test(key)) return \"energie solaire domestique\";\n    if (/titre|title/.test(key)) return \"Simulateur solaire maison\";\n    if (/nom|name|project/.test(key)) return \"Projet Horizon\";\n    if (/description|notes|content|message/.test(key)) return \"Maison individuelle exposee sud avec toiture exploitable.\";\n    return field.placeholder || \"France\";\n  }\n\n  function sampleNumber(field) {\n    const key = `${field.id || \"\"} ${field.name || \"\"}`.toLowerCase();\n    if (/inclinaison|angle|slope/.test(key)) return \"30\";\n    if (/surface|size|m2|sqm/.test(key)) return \"28\";\n    if (/annee|year/.test(key)) return \"2024\";\n    if (/prix|price|budget|cost|amount|montant/.test(key)) return \"12000\";\n    const min = Number(field.min || \"\");\n    const max = Number(field.max || \"\");\n    if (Number.isFinite(min) && Number.isFinite(max) && max >= min) {\n      return String(Math.min(max, Math.max(min, min + Math.round((max - min) * 0.35))));\n    }\n    if (Number.isFinite(min)) return String(Math.max(min, 12));\n    if (Number.isFinite(max)) return String(Math.min(max, 12));\n    return field.value || \"12\";\n  }\n\n  function applySample(field) {\n    const tag = (field.tagName || \"\").toLowerCase();\n    const type = (field.type || \"\").toLowerCase();\n    if (field.disabled) return;\n    if (type === \"hidden\" || type === \"submit\" || type === \"button\" || type === \"reset\" || type === \"image\" || type === \"file\") {\n      return;\n    }\n    const currentValue = normalize(field.value);\n    if (tag === \"select\") {\n      if (currentValue) return;\n      const option = Array.from(field.options || []).find((item) => item.value && !item.disabled) || field.options[0];\n      if (option) field.value = option.value;\n      return;\n    }\n    if (type === \"checkbox\") {\n      if (field.checked) return;\n      field.checked = true;\n      return;\n    }\n    if (type === \"radio\") {\n      if (field.checked) return;\n      field.checked = true;\n      return;\n    }\n    if (type === \"date\") {\n      if (currentValue) return;\n      field.value = \"2026-03-01\";\n      return;\n    }\n    if (type === \"email\") {\n      if (currentValue) return;\n      field.value = \"bonjour@example.com\";\n      return;\n    }\n    if (type === \"url\") {\n      if (currentValue) return;\n      field.value = \"https://example.com/offre-solaire\";\n      return;\n    }\n    if (type === \"tel\") {\n      if (currentValue) return;\n      field.value = \"0612345678\";\n      return;\n    }\n    if (type === \"color\") {\n      if (currentValue) return;\n      field.value = \"#2f855a\";\n      return;\n    }\n    if (type === \"number\" || type === \"range\") {\n      if (currentValue) return;\n      field.value = sampleNumber(field);\n      return;\n    }\n    if (currentValue) return;\n    field.value = sampleText(field);\n  }\n\n  function stamp(status, detail, headline, primary) {\n    if (qaFinished) return;\n    qaFinished = true;\n    if (qaWatchdog) {\n      window.clearTimeout(qaWatchdog);\n      qaWatchdog = null;\n    }\n    const node = marker();\n    node.dataset.status = status;\n    node.dataset.mode = \"native-form\";\n    node.dataset.detail = detail || \"\";\n    node.dataset.headline = headline || \"\";\n    node.dataset.primary = primary || \"\";\n    node.dataset.viewport = window.innerWidth <= 640 ? \"mobile\" : \"desktop\";\n    window.setTimeout(function () {\n      try {\n        window.stop();\n      } catch (_error) {}\n    }, 0);\n  }\n\n  function installModalGuards() {\n    const noop = function () {};\n    const approve = function () { return true; };\n    const empty = function () { return \"\"; };\n    try { window.alert = noop; } catch (_error) {}\n    try { window.confirm = approve; } catch (_error) {}\n    try { window.prompt = empty; } catch (_error) {}\n  }\n\n  function triggerAction(form, action) {\n    try {\n      if (typeof form.requestSubmit === \"function\") {\n        form.requestSubmit(action || undefined);\n        return;\n      }\n    } catch (_error) {}\n    if (action && typeof action.click === \"function\") {\n      action.click();\n      return;\n    }\n    form.dispatchEvent(new Event(\"submit\", { bubbles: true, cancelable: true }));\n  }\n\n  function inspectResult(before, attemptsLeft) {\n    const result = findResult();\n    if (!result) {\n      stamp(\"fail\", \"La zone de resultat est introuvable.\", \"\");\n      return;\n    }\n    const after = resultSignature(result);\n    const text = normalize(result.textContent);\n    if (after && after !== before && text.length >= 24) {\n      const primary = result.querySelector(\"a[href], button[data-href], [data-primary-url]\") || document.querySelector(\"#tool-result a[href]\");\n      stamp(\"pass\", \"Le formulaire natif a mis a jour la zone de resultat.\", resultHeadline(result), primary ? (primary.getAttribute(\"href\") || primary.getAttribute(\"data-primary-url\") || \"\") : \"\");\n      return;\n    }\n    if (attemptsLeft > 0) {\n      window.setTimeout(function () {\n        inspectResult(before, attemptsLeft - 1);\n      }, 250);\n      return;\n    }\n    stamp(\"fail\", \"La zone de resultat n'a pas renvoye de contenu exploitable.\", resultHeadline(result));\n  }\n\n  function runSmoke() {\n    const params = new URLSearchParams(window.location.search);\n    if (params.get(\"__qa\") !== \"functional\") return;\n    qaWatchdog = window.setTimeout(function () {\n      stamp(\"fail\", \"QA smoke timed out before the page reported a usable result.\", \"\");\n    }, 7000);\n    const form = findForm();\n    if (!form) {\n      stamp(\"fail\", \"Le formulaire principal est introuvable.\", \"\");\n      return;\n    }\n    const result = findResult();\n    const before = resultSignature(result);\n    installModalGuards();\n    try {\n      form.querySelectorAll(\"input, select, textarea\").forEach(applySample);\n    } catch (error) {\n      stamp(\"fail\", error && error.message ? `QA smoke sample failed: ${error.message}` : \"QA smoke sample failed before submit.\", \"\");\n      return;\n    }\n    const action = primaryAction(form);\n    try {\n      triggerAction(form, action);\n    } catch (error) {\n      stamp(\"fail\", error && error.message ? `QA smoke submit failed: ${error.message}` : \"QA smoke submit failed.\", \"\");\n      return;\n    }\n    inspectResult(before, 10);\n  }\n\n  window.addEventListener(\"error\", function (event) {\n    const message = event && event.message ? event.message : \"JavaScript runtime error during QA smoke.\";\n    stamp(\"fail\", `QA smoke JS error: ${message}`, \"\");\n  }, { once: true });\n\n  window.addEventListener(\"unhandledrejection\", function (event) {\n    const reason = event && event.reason;\n    const detail = typeof reason === \"string\"\n      ? reason\n      : reason && reason.message\n        ? reason.message\n        : \"Unhandled promise rejection during QA smoke.\";\n    stamp(\"fail\", `QA smoke rejection: ${detail}`, \"\");\n  }, { once: true });\n\n  if (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", function () {\n      window.setTimeout(runSmoke, 60);\n    }, { once: true });\n  } else {\n    window.setTimeout(runSmoke, 60);\n  }\n})();\n</script>\n</body>\n</html>",
+    "generation_mode": "direct_html"
+  }
+}
